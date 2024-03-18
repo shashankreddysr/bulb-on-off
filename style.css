@@ -1,0 +1,23 @@
+*{
+    background: grey;
+}
+img{
+    height:350px;
+    width:250px;
+    margin-top: 150px;
+    margin-left:585px;
+    border: 7px solid rgb(74, 15, 237);
+    
+}
+input[type="submit"]
+{
+    height:50px;
+    width:100px;
+    background:black;
+    color:white;
+    border: 7px solid rgb(74, 15, 237);
+}
+div{
+    margin-left: 610px;
+    margin-top:20px;
+}
